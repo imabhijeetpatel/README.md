@@ -4,7 +4,7 @@
     <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
           font-size="40" fill="none" stroke="#00ffff" stroke-width="1"
           stroke-dasharray="500" stroke-dashoffset="500">
-      John Doe
+      Abhijit Patel
       <animate attributeName="stroke-dashoffset" from="500" to="0" dur="2s" fill="freeze" />
     </text>
   </svg>
@@ -24,17 +24,8 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johndoe&layout=compact&theme=radical" />
-</p>
-
----
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" />
